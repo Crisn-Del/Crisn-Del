@@ -6,7 +6,7 @@
 
 ### 📂 IT Projects  
 - <b>ActiveDirectory-Powershell</b>
-  - [Praciting AD DS, DHCP, DNS, RRAS and Powershell](https://github.com/Crisn-Del/LabActiveDirectory-Powershell)
+  - [Practicing AD DS, DHCP, DNS, RRAS and Powershell](https://github.com/Crisn-Del/LabActiveDirectory-Powershell)
 - Project 2  
 
 ### 🔐 Cybersecurity Projects  
