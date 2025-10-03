@@ -7,7 +7,7 @@
 ### 📂 IT Projects  
 - <b>ActiveDirectory-Powershell</b>
   - [Practicing AD DS, DHCP, DNS, RRAS and Powershell](https://github.com/Crisn-Del/LabActiveDirectory-Powershell)
-- Project 2
+- REST API
   - [Phyton-Travel-REST API](https://github.com/Crisn-Del/python-travel-api) 
 
 ### 🔐 Cybersecurity Projects  
